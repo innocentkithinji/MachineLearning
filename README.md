@@ -8,4 +8,4 @@ In the Linear Regression section i used Linear Regression to predict spending of
 
 Given Data from an advertising firm. I sort the data and give a prediction on whether a user clicks on an advert or doesn't. 
 
-Scenarion two i used Logistic Regression to guess whether a person in the Titanic survived or didn't survive the sinking base on feature provided.
+Scenarion two i used Logistic Regression to show whether a person in the Titanic survived or didn't survive the sinking base on feature provided.
